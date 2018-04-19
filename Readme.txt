@@ -3,4 +3,4 @@ You should use Eclipse JUnit4 as the test driver.
 Please configure the correct build path of sqliteJDBC.jar first in Eclipse build path.
 You have to use the database file we provided to reach the same coverage results.
 
-And Zheng 2018-04-18
+Ang Zheng 2018-04-18
